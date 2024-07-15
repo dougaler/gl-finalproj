@@ -428,6 +428,7 @@
 "Assets/_app/scripts/eventexamplescript.cs"
 "Assets/_app/scripts/GameManager.cs"
 "Assets/_app/scripts/player.cs"
+"Assets/_app/scripts/restart.cs"
 "Assets/_app/scripts/TriggerBox.cs"
 -langversion:9.0
 /deterministic

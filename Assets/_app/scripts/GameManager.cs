@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 namespace _app.scripts
 {
@@ -7,7 +8,6 @@ namespace _app.scripts
     {
         public static GameManager instance;
         public int playerScore;
-
         private void Awake()
         {
             if (instance != null)
