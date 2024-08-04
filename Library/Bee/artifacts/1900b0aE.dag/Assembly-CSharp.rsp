@@ -422,13 +422,12 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.2f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 "Assets/_app/scripts/AudioManager.cs"
+"Assets/_app/scripts/ButtonManager.cs"
 "Assets/_app/scripts/CallBackSystem.cs"
+"Assets/_app/scripts/ChangeLevel.cs"
 "Assets/_app/scripts/CharacterController.cs"
 "Assets/_app/scripts/DelegateManager.cs"
-"Assets/_app/scripts/eventexamplescript.cs"
 "Assets/_app/scripts/GameManager.cs"
-"Assets/_app/scripts/player.cs"
-"Assets/_app/scripts/restart.cs"
 "Assets/_app/scripts/TriggerBox.cs"
 -langversion:9.0
 /deterministic

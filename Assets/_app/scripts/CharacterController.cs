@@ -6,7 +6,7 @@ namespace _app.scripts
     public class CharacterController : MonoBehaviour
     {
         [Header("Movement Variables")] 
-        public float movementSpeed;
+        public static float movementSpeed;
 
         public Vector3 movementVector;
         public Vector3 jumpForce;
