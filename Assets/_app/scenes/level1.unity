@@ -3183,7 +3183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f446f6e51cf4a26b077e57f0f80b76f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 1
+  movementSpeed: 2
   movementVector: {x: 0, y: 0, z: 0}
   jumpForce: {x: 0, y: 300, z: 0}
   crouching: 0
